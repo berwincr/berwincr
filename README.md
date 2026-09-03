@@ -210,7 +210,6 @@ problem-solving and programming skills.
 </p>
 
 ---
----
 
 # 📊 GitHub Activity
 
@@ -219,6 +218,16 @@ problem-solving and programming skills.
 <img height="180" src="./profile/stats.svg" />
 
 <img height="180" src="./profile/top-langs.svg" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/berwincr/berwincr/output/activity-graph.svg" />
 
 </div>
 ---
