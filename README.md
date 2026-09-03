@@ -210,6 +210,18 @@ problem-solving and programming skills.
 </p>
 
 ---
+---
+
+# 📊 GitHub Activity
+
+<div align="center">
+
+<img height="180" src="./profile/stats.svg" />
+
+<img height="180" src="./profile/top-langs.svg" />
+
+</div>
+---
 
 # 🎯 What I'm Working Towards
 
