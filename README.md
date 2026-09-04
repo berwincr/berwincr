@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Hi, I'm Berwin CR
+# 👋🏻 Hi, I'm Berwin CR
 
 ### B.Tech IT @ CEG • Software Developer • AI/ML Enthusiast
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 👩🏻‍💻 About Me
 
 🎓 B.Tech Information Technology student at **College of Engineering Guindy (CEG), Anna University**
 
