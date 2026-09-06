@@ -139,6 +139,34 @@
 `Vercel` • `Render` • `MongoDB Atlas`
 
 ---
+## 💊 PharmaLens — AI Medicine & Pharmacy Agent
+
+> AI-powered medicine information and pharmacy discovery agent built using
+> the **ReAct architecture**, with tool use and persistent long-term memory.
+
+### ✨ Highlights
+
+- 🤖 **ReAct-based AI agent** that decides which tool to use based on the user's request
+- 🔎 **Medical information search** using RxNorm + MedlinePlus
+- 💊 **Pharmacy discovery** using Tavily web search based on medicine and location
+- ⏰ **Medication reminders** with APScheduler
+- 🧠 **Persistent long-term memory** using JSON storage
+- 🔄 Multi-step **LLM → Tool → Observation → Final Answer** workflow
+- 🔐 Stores user-provided preferences/information across sessions
+
+### 🛠️ Tech Stack
+
+`Python` `FastAPI`
+
+### 🤖 AI & Agent Components
+
+`OpenRouter` `GPT-5 Nano` `ReAct`
+
+`RxNorm` `MedlinePlus` `Tavily`
+
+`APScheduler` `JSON Persistent Storage`
+
+---
 
 # 📂 Other Projects
 
