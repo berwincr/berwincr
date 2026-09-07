@@ -195,12 +195,12 @@ and students can register for them.
 
 ---
 
-### 🐍 Python Learning Repository
+### Machine Learning Repository
 
 A collection of Python programs and implementations created while
-learning and practicing Python concepts.
+learning and practicing Machine learning concepts.
 
-**Focus:** `Python` • Programming Fundamentals • Practice
+**Focus:** `Python` • ML Fundamentals • Practice
 
 ---
 
