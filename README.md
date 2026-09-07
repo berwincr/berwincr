@@ -30,15 +30,15 @@
 
 ## 👩🏻‍💻 About Me
 
-🎓 B.Tech Information Technology student at **College of Engineering Guindy (CEG), Anna University**
+- B.Tech Information Technology student at **College of Engineering Guindy (CEG), Anna University**
 
-💻 Interested in **Full-Stack Development and Software Engineering**
+- Interested in **Full-Stack Development and Software Engineering**
 
-🤖 Exploring **Artificial Intelligence, Machine Learning and Data Science**
+- Exploring **Artificial Intelligence, Machine Learning and Data Science**
 
-🧠 Building projects while strengthening my programming and problem-solving skills
+- Building projects while strengthening my programming and problem-solving skills
 
-🚀 I enjoy turning ideas into practical applications and learning through building.
+- I enjoy turning ideas into practical applications and learning through building.
 
 ---
 
@@ -80,22 +80,22 @@
 
 ---
 
-# 🚀 Featured Projects
+#  Featured Projects
 
 ## 🏥 MediGuide AI
 
 > AI-powered healthcare education platform designed to make
 > medicine-related information easier to understand.
 
-### ✨ Highlights
+###  Highlights
 
-- 📷 Medicine strip & prescription OCR
-- 🤖 AI-generated medicine explanations
-- 🌐 English & Tamil support
-- 🔊 Voice interaction
-- ⏰ Medication reminders
-- 💊 Drug interaction awareness
-- 🩺 Symptom-based educational guidance
+-  Medicine strip & prescription OCR
+-  AI-generated medicine explanations
+-  English & Tamil support
+-  Voice interaction
+-  Medication reminders
+-  Drug interaction awareness
+-  Symptom-based educational guidance
 
 ### 🛠️ Tech Stack
 
@@ -110,17 +110,17 @@
 > Full-stack personal finance management application for tracking
 > income, expenses and spending patterns.
 
-### ✨ Highlights
+### Highlights
 
-- 🔐 User registration & JWT authentication
-- 💵 Income & expense tracking
-- 🏷️ Transaction categorization
-- 🔍 Search & advanced filtering
-- 📊 Interactive financial reports
-- 📈 Income vs Expense analytics
-- 🥧 Category-wise spending charts
-- 📱 Responsive dashboard
-- 📄 Pagination & transaction management
+-  User registration & JWT authentication
+-  Income & expense tracking
+-  Transaction categorization
+-  Search & advanced filtering
+-  Interactive financial reports
+-  Income vs Expense analytics
+-  Category-wise spending charts
+-  Responsive dashboard
+-  Pagination & transaction management
 
 ### 🛠️ Tech Stack
 
@@ -144,15 +144,15 @@
 > AI-powered medicine information and pharmacy discovery agent built using
 > the **ReAct architecture**, with tool use and persistent long-term memory.
 
-### ✨ Highlights
+### Highlights
 
-- 🤖 **ReAct-based AI agent** that decides which tool to use based on the user's request
-- 🔎 **Medical information search** using RxNorm + MedlinePlus
-- 💊 **Pharmacy discovery** using Tavily web search based on medicine and location
-- ⏰ **Medication reminders** with APScheduler
-- 🧠 **Persistent long-term memory** using JSON storage
-- 🔄 Multi-step **LLM → Tool → Observation → Final Answer** workflow
-- 🔐 Stores user-provided preferences/information across sessions
+-  **ReAct-based AI agent** that decides which tool to use based on the user's request
+-  **Medical information search** using RxNorm + MedlinePlus
+-  **Pharmacy discovery** using Tavily web search based on medicine and location
+-  **Medication reminders** with APScheduler
+-  **Persistent long-term memory** using JSON storage
+-  Multi-step **LLM → Tool → Observation → Final Answer** workflow
+-  Stores user-provided preferences/information across sessions
 
 ### 🛠️ Tech Stack
 
@@ -170,23 +170,23 @@
 
 # 📂 Other Projects
 
-### 🌱 Vidhai — Seed Bank Management System
+###  Vidhai — Seed Bank Management System
 
 Full-stack Seed Bank Management System developed as a DBMS project.
 
 **Features**
 
-- 🌾 Seed inventory management
-- 🛒 Seed ordering
-- 🔍 Search & filtering
-- 🌱 Add seeds
-- 🗄️ Relational database
+-  Seed inventory management
+-  Seed ordering
+-  Search & filtering
+-  Add seeds
+-  Relational database
 
 **Tech:** `React` `Flask` `MySQL`
 
 ---
 
-### 🎓 Campus Event Management System
+###  Campus Event Management System
 
 A web application where department-specific events can be hosted
 and students can register for them.
@@ -204,7 +204,7 @@ learning and practicing Machine learning concepts.
 
 ---
 
-### 🧠 LeetCode Solutions
+###  LeetCode Solutions
 
 A collection of my solutions to programming problems solved on
 LeetCode.
@@ -213,14 +213,14 @@ LeetCode.
 
 ---
 
-### 🌐 Personal Portfolio
+###  Personal Portfolio
 
 A personal portfolio website containing information about me,
 my skills and my projects.
 
 ---
 
-# 🧠 Problem Solving
+#  Problem Solving
 
 I use coding problems and projects to continuously improve my
 problem-solving and programming skills.
@@ -263,15 +263,15 @@ problem-solving and programming skills.
 # 🎯 What I'm Working Towards
 
 ```text
-💻 Strong Software Engineering fundamentals
+ Strong Software Engineering fundamentals
 
-🌐 Building better full-stack applications
+ Building better full-stack applications
 
-🤖 Exploring Artificial Intelligence & Machine Learning
+ Exploring Artificial Intelligence & Machine Learning
 
-🧠 Improving Data Structures & Problem Solving
+ Improving Data Structures & Problem Solving
 
-🚀 Turning ideas into useful products
+ Turning ideas into useful products
 ```
 ---
 # 🌐 Connect With Me
