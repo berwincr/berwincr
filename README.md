@@ -232,7 +232,7 @@ problem-solving and programming skills.
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="https://github.com/berwincr">
+<a href="https://github.com/berwincr/leetcode_solutions">
 <img src="https://img.shields.io/badge/DSA%20Solutions-GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
 </p>
