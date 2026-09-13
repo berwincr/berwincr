@@ -99,7 +99,7 @@
 
 ### 🛠️ Tech Stack
 
-`React` `Node.js` `Express.js` `MongoDB Atlas`
+`React` `Python` `MongoDB Atlas`
 
 `Gemini API` `Tesseract OCR` `JWT`
 
