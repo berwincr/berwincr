@@ -71,7 +71,7 @@
 ### ☁️ Cloud & Tools
 
 <p>
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,postman" />
 </p>
 
 ### 🤖 AI / Data
