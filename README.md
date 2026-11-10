@@ -1,273 +1,86 @@
 <div align="center">
-  <img src="./assets/berwin-hero.svg" width="100%" alt="Berwin C R — Software Developer" />
-</div>
 
-<div align="center">
-<p>
-  <img src="https://img.shields.io/badge/BUILDING-451126?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/LEARNING-701A3D?style=for-the-badge&logo=bookstack&logoColor=white" />
-  <img src="https://img.shields.io/badge/EXPLORING-C77B9B?style=for-the-badge&logo=googlecolab&logoColor=white" />
-</p>
+<a href="https://github.com/berwincr"><img src="./assets/hero.svg" alt="Berwin CR: B.Tech IT at CEG, Software Developer, AI/ML Enthusiast" width="100%"></a>
 
-**Building with intent. Learning with curiosity.**
+<a href="https://github.com/berwincr"><img src="https://img.shields.io/badge/GitHub-berwincr-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/berwin-cr/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:berwincr4028@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://leetcode.com/u/Berwin_cr/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"></a>
 
-<a href="https://github.com/berwincr">
-<img src="https://img.shields.io/badge/GitHub-451126?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/berwin-cr/">
-<img src="https://img.shields.io/badge/LinkedIn-701A3D?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Berwin_cr/">
-<img src="https://img.shields.io/badge/LeetCode-451126?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="https://berwincr.github.io/berwin-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-701A3D?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=berwincr&style=flat-square&color=36BCF7&label=PROFILE+VIEWS" alt="Profile views">
 
 </div>
 
----
+<br>
 
-## ABOUT ME
+<img src="./assets/title-about.svg" alt="01 About" width="100%">
+<img src="./assets/about.svg" alt="B.Tech IT at CEG, Anna University. Interested in full-stack development, software engineering, AI, ML and data science." width="100%">
 
-I'm **Berwin C R**, an Information Technology undergraduate at the **College of Engineering, Guindy (CEG), Anna University**.
+<br>
 
-I enjoy turning ideas into useful software, understanding how systems work, and constantly improving my problem-solving skills.
+<img src="./assets/title-work.svg" alt="02 Featured work" width="100%">
 
-My primary interest is **Software Engineering and Full-Stack Development**, while exploring **Artificial Intelligence, Machine Learning, and Data Science**.
+<img src="./assets/project-mediguide.svg" alt="MediGuide AI: healthcare education platform with OCR, AI explanations, English and Tamil support, voice interaction. React, Python, MongoDB Atlas, Gemini API, Tesseract OCR, JWT." width="100%">
 
-<table>
-<tr>
-<td width="50%">
+<img src="./assets/project-ledger.svg" alt="Ledger: full-stack personal finance manager. React, Vite, Tailwind, Node.js, Express, MongoDB Atlas, JWT. Deployed on Vercel and Render." width="100%">
 
-**EDUCATION**
+<img src="./assets/project-pharmalens.svg" alt="PharmaLens: ReAct-based AI medicine and pharmacy agent with tool use and long-term memory. Python, FastAPI, OpenRouter, RxNorm, MedlinePlus, Tavily, APScheduler." width="100%">
 
-B.Tech Information Technology
+<a href="https://github.com/berwincr/ShowTime"><img src="./assets/project-showtime.svg" alt="ShowTime: web-based movie ticket booking system with seat selection and Razorpay test checkout. React, Vite, Java, Spring Boot, MySQL, TMDB API." width="100%"></a>
 
-College of Engineering, Guindy
+<br>
 
-CGPA: **9.56 / 10**
+<img src="./assets/title-other.svg" alt="03 Other projects" width="100%">
+<img src="./assets/other-projects.svg" alt="Vidhai seed bank system, Campus Event Management, Machine Learning repository, LeetCode solutions, Personal portfolio." width="100%">
 
-</td>
-<td width="50%">
+<br>
 
-**AREAS OF INTEREST**
+<img src="./assets/title-toolkit.svg" alt="04 Toolkit" width="100%">
+<img src="./assets/toolkit.svg" alt="Languages: C++, C, Python, Java, JavaScript. Frontend: HTML, CSS, React, Tailwind. Backend: Node.js, Express. Databases: MySQL, MongoDB, PostgreSQL. Tools: GCP, Git, GitHub, VS Code, Postman. AI/data: NumPy, Pandas, Scikit-learn, Matplotlib." width="100%">
 
-- Software Engineering
-- Full-Stack Development
-- Artificial Intelligence
-- Machine Learning
-- Data Science
+<br>
 
-</td>
-</tr>
-</table>
-
----
-
-## FEATURED PROJECTS
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 01. MediGuide AI
-
-**AI · Healthcare**
-
-An AI-powered healthcare education assistant that helps users explore health information, track symptoms, and access medicine-related information.
-
-**Tech Stack**
-
-`React` `FastAPI` `MongoDB` `Gemini` `JWT` `Tesseract OCR`
-
-[VIEW PROJECT ↗](https://github.com/berwincr/MediGuide_AI)
-
-</td>
-<td width="50%" valign="top">
-
-### 02. Ledger
-
-**Full Stack · Finance**
-
-A personal expense tracker for managing income and expenses, viewing transactions, and understanding spending patterns through interactive charts.
-
-**Tech Stack**
-
-`React` `Node.js` `Express` `MongoDB` `JWT` `Chart.js`
-
-[VIEW PROJECT ↗](https://github.com/berwincr/ledger)
-
-[LIVE DEMO ↗](https://expense-tracker-nine-rho-67.vercel.app)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 03. PharmaLens
-
-**AI · Medicine Discovery**
-
-An AI-powered medicine information and pharmacy discovery agent using a ReAct-style architecture and external information tools.
-
-**Tech Stack**
-
-`Python` `FastAPI` `OpenRouter` `RxNorm` `MedlinePlus` `Tavily`
-
-[VIEW PROJECT ↗](https://github.com/berwincr/PharmaLens)
-
-</td>
-<td width="50%" valign="top">
-
-### 04. ShowTime
-
-**Web Development · Booking**
-
-A movie-ticket booking application with movie discovery, showtime selection, seat booking, and payment integration in test mode.
-
-**Tech Stack**
-
-`React` `Java` `Spring Boot` `MySQL` `TMDB` `Razorpay`
-
-[VIEW PROJECT ↗](https://github.com/berwincr/ShowTime)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 05. Vidhai
-
-**Web Development · Seed Bank**
-
-A seed-bank management application for maintaining seed inventory and managing seed information.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `Node.js` `MySQL`
-
-[VIEW PROJECT ↗](https://github.com/berwincr/Vidhai)
-
-</td>
-<td width="50%" valign="top">
-
-### 06. LeetCode Solutions
-
-**Problem Solving · DSA**
-
-A growing collection of C++ solutions covering data structures, algorithms, and competitive programming problems.
-
-**Tech Stack**
-
-`C++` `Data Structures` `Algorithms`
-
-[VIEW REPOSITORY ↗](https://github.com/berwincr/leetcode_solutions)
-
-[LEETCODE PROFILE ↗](https://leetcode.com/u/Berwin_cr/)
-
-</td>
-</tr>
-</table>
-
----
-
-## TECHNICAL TOOLKIT
-
-### Programming Languages
-
-<p>
-<img src="https://img.shields.io/badge/C-451126?style=flat-square&logo=c&logoColor=white" />
-<img src="https://img.shields.io/badge/C++-451126?style=flat-square&logo=cplusplus&logoColor=white" />
-<img src="https://img.shields.io/badge/Java-451126?style=flat-square&logo=openjdk&logoColor=white" />
-<img src="https://img.shields.io/badge/Python-451126?style=flat-square&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/JavaScript-451126?style=flat-square&logo=javascript&logoColor=white" />
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://img.shields.io/badge/HTML5-701A3D?style=flat-square&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-701A3D?style=flat-square&logo=css3&logoColor=white" />
-<img src="https://img.shields.io/badge/React-701A3D?style=flat-square&logo=react&logoColor=white" />
-<img src="https://img.shields.io/badge/Vite-701A3D?style=flat-square&logo=vite&logoColor=white" />
-<img src="https://img.shields.io/badge/Tailwind-701A3D?style=flat-square&logo=tailwindcss&logoColor=white" />
-</p>
-
-### Backend & Databases
-
-<p>
-<img src="https://img.shields.io/badge/Node.js-451126?style=flat-square&logo=nodedotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Express.js-451126?style=flat-square&logo=express&logoColor=white" />
-<img src="https://img.shields.io/badge/FastAPI-451126?style=flat-square&logo=fastapi&logoColor=white" />
-<img src="https://img.shields.io/badge/Spring_Boot-451126?style=flat-square&logo=springboot&logoColor=white" />
-<img src="https://img.shields.io/badge/MySQL-701A3D?style=flat-square&logo=mysql&logoColor=white" />
-<img src="https://img.shields.io/badge/MongoDB-701A3D?style=flat-square&logo=mongodb&logoColor=white" />
-<img src="https://img.shields.io/badge/PostgreSQL-701A3D?style=flat-square&logo=postgresql&logoColor=white" />
-</p>
-
-### Tools & Technologies
-
-<p>
-<img src="https://img.shields.io/badge/Git-701A3D?style=flat-square&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-701A3D?style=flat-square&logo=github&logoColor=white" />
-<img src="https://img.shields.io/badge/JWT-701A3D?style=flat-square&logo=jsonwebtokens&logoColor=white" />
-<img src="https://img.shields.io/badge/Chart.js-701A3D?style=flat-square&logo=chartdotjs&logoColor=white" />
-<img src="https://img.shields.io/badge/Gemini-701A3D?style=flat-square&logo=googlegemini&logoColor=white" />
-<img src="https://img.shields.io/badge/Google_Cloud-701A3D?style=flat-square&logo=googlecloud&logoColor=white" />
-</p>
-
----
-
-## CAMPUS & COMMUNITY
-
-**CEG TechForum** — Event Coordinator
-
-**National Service Scheme (NSS)** — Volunteer
-
-I enjoy collaborating with others, learning from new experiences, and contributing to the campus community.
-
----
-
-## GITHUB CONTRIBUTIONS
+<img src="./assets/title-practice.svg" alt="05 Problem solving" width="100%">
 
 <div align="center">
 
-<img src="https://ghchart.rshah.org/701A3D/berwincr" alt="Berwin's GitHub Contribution Graph" width="100%" />
-
-<br/>
-
-[Explore my GitHub activity](https://github.com/berwincr)
+<a href="https://leetcode.com/u/Berwin_cr/"><img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode profile"></a>
+<a href="https://github.com/berwincr/leetcode_solutions"><img src="https://img.shields.io/badge/DSA%20Solutions-GitHub-181717?style=for-the-badge&logo=github" alt="DSA solutions repository"></a>
 
 </div>
 
----
+<br>
 
-## LET'S CONNECT
+<img src="./assets/title-commits.svg" alt="06 Commit log" width="100%">
 
 <div align="center">
 
-<a href="https://github.com/berwincr">
-<img src="https://img.shields.io/badge/GitHub-451126?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/berwin-cr/">
-<img src="https://img.shields.io/badge/LinkedIn-701A3D?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://leetcode.com/u/Berwin_cr/">
-<img src="https://img.shields.io/badge/LeetCode-451126?style=for-the-badge&logo=leetcode&logoColor=white" />
-</a>
-<a href="https://berwincr.github.io/berwin-portfolio/">
-<img src="https://img.shields.io/badge/Portfolio-701A3D?style=for-the-badge&logo=firefox&logoColor=white" />
-</a>
+<img src="https://raw.githubusercontent.com/berwincr/berwincr/snake/github-snake.svg" alt="Snake eating my GitHub contributions" width="100%">
 
-<br/><br/>
+<img height="180" src="./profile/stats.svg" alt="GitHub stats">
+<img height="180" src="./profile/top-langs.svg" alt="Top languages">
 
-**Open to learning, building, and meaningful collaborations.**
-
-*Stay curious. Keep building.*
+<img src="https://raw.githubusercontent.com/berwincr/berwincr/output/activity-graph.svg" alt="Contribution activity graph" width="100%">
 
 </div>
 
+<br>
+
+<img src="./assets/title-goals.svg" alt="07 Working towards" width="100%">
+<img src="./assets/goals.svg" alt="Software engineering fundamentals, full-stack apps, AI and ML, data structures, useful products." width="100%">
+
+<br>
+
+<img src="./assets/title-connect.svg" alt="08 Connect" width="100%">
+
 <div align="center">
-  <img src="./assets/berwin-footer.svg" width="100%" alt="Stay curious. Keep building." />
+
+<a href="https://github.com/berwincr"><img src="https://img.shields.io/badge/GitHub-berwincr-181717?style=for-the-badge&logo=github" alt="GitHub"></a>
+<a href="https://www.linkedin.com/in/berwin-cr/"><img src="https://img.shields.io/badge/LinkedIn-Berwin%20CR-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"></a>
+<a href="mailto:berwincr4028@gmail.com"><img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail" alt="Email"></a>
+
+<br><br>
+
+<img src="./assets/footer.svg" alt="Build something worth remembering." width="100%">
+
 </div>
