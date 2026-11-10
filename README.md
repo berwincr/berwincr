@@ -1,282 +1,119 @@
 <div align="center">
 
-# 👋🏻 Hi, I'm Berwin CR
+<img src="./assets/berwin-hero.svg" alt="Berwin C R — IT Student at College of Engineering Guindy, Software Developer exploring AI, ML and Data Science" width="100%" />
 
-### B.Tech IT @ CEG • Software Developer • AI/ML Enthusiast
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=21&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Building+things+with+code+%F0%9F%92%BB;Exploring+AI+%26+Data+Science+%F0%9F%A4%96;Turning+ideas+into+real+applications+%F0%9F%9A%80;Always+learning%2C+always+building+%F0%9F%8C%B1" />
-
-<br>
-
-<a href="https://github.com/berwincr">
-<img src="https://img.shields.io/badge/GitHub-berwincr-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/berwin-cr-ceg/">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:berwincr4028@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<br><br>
-
-<img src="https://komarev.com/ghpvc/?username=berwincr&style=flat-square&color=36BCF7&label=PROFILE+VIEWS"/>
+<p>
+  <a href="https://github.com/berwincr">GitHub</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/berwin-cr/">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="https://leetcode.com/u/Berwin_cr/">LeetCode</a>
+  &nbsp;·&nbsp;
+  <a href="https://berwincr.github.io/portfolio/">Portfolio</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:berwincr4028@gmail.com">Email</a>
+</p>
 
 </div>
 
 ---
 
-## 👩🏻‍💻 About Me
+## A little about me
 
-- B.Tech Information Technology student at **College of Engineering Guindy (CEG), Anna University**
+I'm **Berwin C R**, an Information Technology undergraduate at the **College of Engineering, Guindy (CEG), Anna University**. I enjoy building practical software, understanding how systems fit together, and learning by shipping projects.
 
-- Interested in **Full-Stack Development and Software Engineering**
+My current focus is **software engineering and full-stack development**, while exploring **artificial intelligence, machine learning, and data science**.
 
-- Exploring **Artificial Intelligence, Machine Learning and Data Science**
+| Education | Details |
+|:--|:--|
+| Degree | B.Tech. in Information Technology |
+| Institution | College of Engineering, Guindy · Anna University |
+| CGPA | **9.56 / 10** |
+| Expected graduation | 2028 |
 
-- Building projects while strengthening my programming and problem-solving skills
+## Selected work
 
-- I enjoy turning ideas into practical applications and learning through building.
+### [MediGuide AI](https://github.com/berwincr/MediGuide_AI)
+A healthcare education assistant that brings medicine and condition information into a conversational interface. It combines structured reference data with AI-generated explanations and is designed for education, not diagnosis or prescribing.
 
----
+`React` `FastAPI` `MongoDB` `Google Gemini` `JWT` `Tesseract OCR`
 
-# ⚡ Tech Stack
+### [Ledger — Expense Tracker](https://github.com/berwincr/ledger) · [Live demo](https://expense-tracker-nine-rho-67.vercel.app)
+A MERN personal-finance application for tracking income and expenses, managing transactions, and exploring spending patterns through dashboard reports and charts.
 
-### 💻 Languages
+`React` `Node.js` `Express.js` `MongoDB Atlas` `JWT` `bcrypt` `Chart.js`
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,c,python,java,javascript" />
+### [PharmaLens](https://github.com/berwincr/PharmaLens)
+A ReAct-style medicine information and pharmacy discovery agent with tool use, user-directed reminders, and persistent memory. Pharmacy search results are informational and do not guarantee live stock.
+
+`Python` `FastAPI` `OpenRouter` `RxNorm` `MedlinePlus` `Tavily` `APScheduler`
+
+### [ShowTime](https://github.com/berwincr/ShowTime)
+A movie-ticket booking application for discovering movies and showtimes, selecting seats, managing bookings, and testing a payment flow.
+
+`React` `Java` `Spring Boot` `MySQL` `TMDB` `Razorpay Test Mode`
+
+### [Vidhai — Seed Bank Management System](https://github.com/berwincr/Vidhai)
+A web application for maintaining seed-bank inventory, searching seed records, and managing seed information.
+
+`HTML` `CSS` `JavaScript` `Node.js` `MySQL`
+
+### [LeetCode Solutions](https://github.com/berwincr/leetcode_solutions)
+A growing collection of problem-solving implementations focused on data structures, algorithms, and C++ practice.
+
+`C++` `Data Structures` `Algorithms`
+
+## Technical toolkit
+
+**Programming languages**  
+`C` `C++` `Java` `Python` `JavaScript`
+
+**Frontend**  
+`HTML` `CSS` `React` `Vite` `Tailwind CSS`
+
+**Backend & APIs**  
+`Node.js` `Express.js` `FastAPI` `Spring Boot`
+
+**Databases**  
+`MySQL` `MongoDB` `MongoDB Atlas`
+
+**AI, data & integrations**  
+`Google Gemini API` `OpenRouter` `Tesseract OCR` `RxNorm` `MedlinePlus` `Tavily` `ReAct`
+
+**Developer tools & libraries**  
+`Git` `GitHub` `JWT` `bcrypt` `Mongoose` `Axios` `Chart.js` `APScheduler`
+
+## Achievements & certifications
+
+- **CGPA: 9.56 / 10** — B.Tech. Information Technology, College of Engineering, Guindy.
+- **CEG TechForum — Event Coordinator**, Kurukshetra 2026.
+- **National Service Scheme (NSS) — Volunteer**; involved in community-service initiatives.
+- **Python for Data Science** — NPTEL.
+- **Google AI Essentials** — Google.
+
+## GitHub contributions
+
+The calendar below is a third-party rendering of GitHub's contribution graph for `berwincr`. It reflects the contribution data GitHub makes visible on the public profile; it is not a manually generated activity illustration.
+
+<p align="center">
+  <a href="https://github.com/berwincr">
+    <img src="https://ghchart.rshah.org/701A3D/berwincr" alt="Live GitHub contribution calendar for berwincr" width="100%" />
+  </a>
 </p>
 
-### 🌐 Frontend
+<sub>Contribution visibility follows your GitHub profile settings. GitHub may omit private activity unless private contributions are enabled.</sub>
+
+## Find me elsewhere
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,react,tailwind" />
+  <a href="https://github.com/berwincr">GitHub · @berwincr</a><br />
+  <a href="https://www.linkedin.com/in/berwin-cr/">LinkedIn</a><br />
+  <a href="https://leetcode.com/u/Berwin_cr/">LeetCode</a><br />
+  <a href="https://berwincr.github.io/portfolio/">Portfolio</a><br />
+  <a href="mailto:berwincr4028@gmail.com">Email</a>
 </p>
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-</p>
-
-### ☁️ Cloud & Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=gcp,git,github,vscode,postman" />
-</p>
-
-### 🤖 AI / Data
-
-`NumPy` • `Pandas` • `Scikit-learn` • `Matplotlib`
-
----
-
-#  Featured Projects
-
-## 🏥 MediGuide AI
-
-> AI-powered healthcare education platform designed to make
-> medicine-related information easier to understand.
-
-###  Highlights
-
--  Medicine strip & prescription OCR
--  AI-generated medicine explanations
--  English & Tamil support
--  Voice interaction
--  Medication reminders
--  Drug interaction awareness
--  Symptom-based educational guidance
-
-### 🛠️ Tech Stack
-
-`React` `Python` `MongoDB Atlas`
-
-`Gemini API` `Tesseract OCR` `JWT`
-
----
-
-## 💰 Ledger — Personal Finance Manager
-
-> Full-stack personal finance management application for tracking
-> income, expenses and spending patterns.
-
-### Highlights
-
--  User registration & JWT authentication
--  Income & expense tracking
--  Transaction categorization
--  Search & advanced filtering
--  Interactive financial reports
--  Income vs Expense analytics
--  Category-wise spending charts
--  Responsive dashboard
--  Pagination & transaction management
-
-### 🛠️ Tech Stack
-
-**Frontend**
-
-`React` `Vite` `Tailwind CSS` `Axios` `React Router` `Chart.js`
-
-**Backend**
-
-`Node.js` `Express.js` `MongoDB Atlas` `Mongoose`
-
-`JWT` `bcrypt` `Express Validator`
-
-**Deployment**
-
-`Vercel` • `Render` • `MongoDB Atlas`
-
----
-## 💊 PharmaLens — AI Medicine & Pharmacy Agent
-
-> AI-powered medicine information and pharmacy discovery agent built using
-> the **ReAct architecture**, with tool use and persistent long-term memory.
-
-### Highlights
-
--  **ReAct-based AI agent** that decides which tool to use based on the user's request
--  **Medical information search** using RxNorm + MedlinePlus
--  **Pharmacy discovery** using Tavily web search based on medicine and location
--  **Medication reminders** with APScheduler
--  **Persistent long-term memory** using JSON storage
--  Multi-step **LLM → Tool → Observation → Final Answer** workflow
--  Stores user-provided preferences/information across sessions
-
-### 🛠️ Tech Stack
-
-`Python` `FastAPI`
-
-### 🤖 AI & Agent Components
-
-`OpenRouter` `GPT-5 Nano` `ReAct`
-
-`RxNorm` `MedlinePlus` `Tavily`
-
-`APScheduler` `JSON Persistent Storage`
-
----
-
-# 📂 Other Projects
-
-###  Vidhai — Seed Bank Management System
-
-Full-stack Seed Bank Management System developed as a DBMS project.
-
-**Features**
-
--  Seed inventory management
--  Seed ordering
--  Search & filtering
--  Add seeds
--  Relational database
-
-**Tech:** `React` `Flask` `MySQL`
-
----
-
-###  Campus Event Management System
-
-A web application where department-specific events can be hosted
-and students can register for them.
-
-**Focus:** Event hosting • Student registration • Department-specific events
-
----
-
-### Machine Learning Repository
-
-A collection of Python programs and implementations created while
-learning and practicing Machine learning concepts.
-
-**Focus:** `Python` • ML Fundamentals • Practice
-
----
-
-###  LeetCode Solutions
-
-A collection of my solutions to programming problems solved on
-LeetCode.
-
-**Focus:** `C++` • Data Structures • Algorithms • Problem Solving
-
----
-
-###  Personal Portfolio
-
-A personal portfolio website containing information about me,
-my skills and my projects.
-
----
-
-#  Problem Solving
-
-I use coding problems and projects to continuously improve my
-problem-solving and programming skills.
-
-### Platforms & Practice
-
-<p>
-<a href="https://leetcode.com/u/Berwin_cr/">
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-<a href="https://github.com/berwincr/leetcode_solutions">
-<img src="https://img.shields.io/badge/DSA%20Solutions-GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
-
----
-
-# 📊 GitHub Activity
 
 <div align="center">
-
-<img height="180" src="./profile/stats.svg" />
-
-<img height="180" src="./profile/top-langs.svg" />
-
+  <img src="./assets/berwin-footer.svg" alt="A minimal animated burgundy line motif" width="100%" />
+  <sub>Curiosity in. Better software out.</sub>
 </div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/berwincr/berwincr/output/activity-graph.svg" />
-
-</div>
----
-
-# 🎯 What I'm Working Towards
-
-```text
- Strong Software Engineering fundamentals
-
- Building better full-stack applications
-
- Exploring Artificial Intelligence & Machine Learning
-
- Improving Data Structures & Problem Solving
-
- Turning ideas into useful products
-```
----
-# 🌐 Connect With Me
-<div align="center"> <a href="https://github.com/berwincr"> <img src="https://img.shields.io/badge/GitHub-berwincr-181717?style=for-the-badge&logo=github"/> </a> <a href="https://www.linkedin.com/in/berwin-cr-ceg/"> <img src="https://img.shields.io/badge/LinkedIn-Berwin%20CR-0A66C2?style=for-the-badge&logo=linkedin"/> </a> <a href="mailto:berwincr4028@gmail.com"> <img src="https://img.shields.io/badge/Email-Let's%20Connect-EA4335?style=for-the-badge&logo=gmail"/> </a> </div> <br> <div align="center">
-  ---
-  
-# 🚀 Build something worth remembering.
-<img src="https://capsule-render.vercel.app/api?type=waving&color=36BCF7&height=100&section=footer"/> </div> ```
