@@ -155,7 +155,7 @@ def langs_svg(langs):
         b += (f'<circle cx="{24+fw:.1f}" cy="{y+12}" r="4" fill="{GOLD2}"><animate attributeName="opacity" values="1;.25;1" dur="3s" begin="{i*0.4}s" repeatCount="indefinite"/></circle>')
     return card(w, h, b, delay=3)
 
-def smooth(pts):
+def smooth(pts, ymin=None, ymax=None):
     d = f"M{pts[0][0]:.1f},{pts[0][1]:.1f}"
     for i in range(len(pts) - 1):
         p0 = pts[i-1] if i > 0 else pts[i]
@@ -163,37 +163,44 @@ def smooth(pts):
         p3 = pts[i+2] if i + 2 < len(pts) else p2
         c1 = (p1[0] + (p2[0]-p0[0])/6, p1[1] + (p2[1]-p0[1])/6)
         c2 = (p2[0] - (p3[0]-p1[0])/6, p2[1] - (p3[1]-p1[1])/6)
+        if ymin is not None:
+            c1 = (c1[0], min(max(c1[1], ymin), ymax)); c2 = (c2[0], min(max(c2[1], ymin), ymax))
         d += f" C{c1[0]:.1f},{c1[1]:.1f} {c2[0]:.1f},{c2[1]:.1f} {p2[0]:.1f},{p2[1]:.1f}"
     return d
 
 def activity_svg(weeks, total):
-    w, h = 900, 290
-    wk = [sum(c for _, c in wkdays) for wkdays in weeks]
-    wk_dates = [wkdays[0][0] for wkdays in weeks]
-    left, right, top, bottom = 56, 28, 70, 40
+    """Daily contributions for the last 30 days."""
+    days = [d for wk in weeks for d in wk][-30:]
+    vals = [c for _, c in days]
+    dates = [datetime.date.fromisoformat(d) for d, _ in days]
+    w, h = 900, 300
+    left, right, top, bottom = 56, 28, 70, 56
     pw, ph = w - left - right, h - top - bottom
-    mx = max(max(wk), 4)
+    mx = max(max(vals), 4)
     step = -(-mx // 4)
     mx = step * 4
-    xs = [left + i * pw / max(len(wk) - 1, 1) for i in range(len(wk))]
-    ys = [top + ph - v / mx * ph for v in wk]
+    xs = [left + i * pw / max(len(vals) - 1, 1) for i in range(len(vals))]
+    ys = [top + ph - v / mx * ph for v in vals]
     pts = list(zip(xs, ys))
-    line = smooth(pts)
+    line = smooth(pts, top, top + ph)
     area = line + f" L{xs[-1]:.1f},{top+ph} L{xs[0]:.1f},{top+ph} Z"
-    b = header("CONTRIBUTION ACTIVITY", f"{total:,} contributions in the last year", w)
+    b = header("CONTRIBUTION ACTIVITY", f"{sum(vals):,} contributions in the last 30 days", w)
     for k in range(5):
         gy = top + ph - k * ph / 4
         b += f'<line x1="{left}" y1="{gy:.1f}" x2="{w-right}" y2="{gy:.1f}" stroke="{LINE}" stroke-width="1" stroke-dasharray="3 5"/>'
         b += t(left - 10, gy + 4, k * step, 10, GRAY, 400, MONO, "end")
-    last_month = None
-    for x, dstr in zip(xs, wk_dates):
-        m = datetime.date.fromisoformat(dstr).strftime("%b")
-        if m != last_month:
-            b += t(x, h - 16, m, 10, GRAY, 400, MONO, "middle"); last_month = m
+    prev_month = None
+    for x, d in zip(xs, dates):
+        b += t(x, h - 30, d.day, 10, GRAY, 400, MONO, "middle")
+        if d.month != prev_month:
+            b += t(x, h - 14, d.strftime("%b"), 10, GOLD, 600, MONO, "middle")
+            prev_month = d.month
     b += f'<path d="{area}" fill="url(#area)"/>'
     b += f'<path d="{line}" fill="none" stroke="url(#a)" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"/>'
-    pk = wk.index(max(wk))
-    b += f'<circle cx="{xs[pk]:.1f}" cy="{ys[pk]:.1f}" r="4" fill="{GOLD2}"/>' + t(xs[pk], ys[pk] - 12, f"peak {wk[pk]}", 10, GOLD2, 500, MONO, "middle")
+    for x, y in pts:
+        b += f'<circle cx="{x:.1f}" cy="{y:.1f}" r="3" fill="{GOLD2}" opacity=".85"/>'
+    pk = vals.index(max(vals))
+    b += f'<circle cx="{xs[pk]:.1f}" cy="{ys[pk]:.1f}" r="5" fill="{GOLD2}"/>' + t(xs[pk], ys[pk] - 12, f"peak {vals[pk]}", 10, GOLD2, 500, MONO, "middle")
     b += (f'<circle r="10" fill="{GOLD}" opacity=".25"><animateMotion dur="10s" repeatCount="indefinite" path="{line}"/></circle>'
           f'<circle r="4.5" fill="{GOLD2}"><animateMotion dur="10s" repeatCount="indefinite" path="{line}"/></circle>')
     return card(w, h, b, delay=6)
