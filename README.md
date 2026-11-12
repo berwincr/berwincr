@@ -60,7 +60,7 @@
 <img height="180" src="./profile/stats.svg" alt="GitHub stats">
 <img height="180" src="./profile/top-langs.svg" alt="Top languages">
 
-<img src="https://raw.githubusercontent.com/berwincr/berwincr/output/activity-graph.svg" alt="Contribution activity graph" width="100%">
+   <img src="./profile/activity.svg" alt="Contribution activity graph" width="100%">
 
 </div>
 
